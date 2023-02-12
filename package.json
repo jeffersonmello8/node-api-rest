@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "Criação de REST API para uso em testes",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "author": "Jefferson Sousa <jefferson.mello8@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
