@@ -6,8 +6,13 @@ Uma API Node construída usando o framework Express
 </h1>
 
 🚀 Tecnologias
-[Node.js] - plataforma de desenvolvimento
-[Express] - framework usado para criar a API
-[Nodemon] - atualiza e sobe o serviço automaticamente a cada alteração no código do projeto
-[Morgan] - acompanha e escreve logs mediante ao que acontece no serviço
-[Body Parser] - serve pra converter o body da requisição para vários formatos, inclusive json
+
+[Node.js](https://nodejs.org/en/) - plataforma de desenvolvimento
+
+[Express](https://expressjs.com/) - framework usado para criar a API
+
+[Nodemon](https://nodemon.io/) - atualiza e sobe o serviço automaticamente a cada alteração no código do projeto
+
+[Morgan](https://www.npmjs.com/package/morgan) - acompanha e escreve logs mediante ao que acontece no serviço
+
+[Body Parser](https://www.npmjs.com/package/body-parser) - serve pra converter o body da requisição para vários formatos, inclusive json
