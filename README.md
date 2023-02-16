@@ -16,3 +16,5 @@ Uma API Node construída usando o framework Express
 [Morgan](https://www.npmjs.com/package/morgan) - acompanha e escreve logs mediante ao que acontece no serviço
 
 [Body Parser](https://www.npmjs.com/package/body-parser) - serve pra converter o body da requisição para vários formatos, inclusive json
+
+[MySQL](https://www.npmjs.com/package/mysql) - serve pra converter o body da requisição para vários formatos, inclusive json
